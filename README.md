@@ -1,5 +1,5 @@
 # raspi-supercap
-Open source Raspberry Pi supercapacitor UPS shield
+Open source Raspberry Pi supercapacitor UPS hat
 
 ## Goal 
 Make reliable turn on / shutdown shield for Raspberry Pi
