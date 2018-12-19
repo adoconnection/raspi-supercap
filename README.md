@@ -5,7 +5,7 @@ Open source Raspberry Pi supercapacitor UPS hat
 Make reliable turn on / shutdown shield for Raspberry Pi
 
 ## BOM
-* PCB
+* PCB – https://easyeda.com/adoconnection/raspi-supercap
 * 20F x 2 supercapacitors
 * ATMega328
 * resistors
@@ -28,3 +28,5 @@ PoC assembly
 * https://raspberrypi.stackexchange.com/questions/74641/how-to-make-a-simple-reliable-15-second-ups-for-shutdown
 * https://raspberrypi.stackexchange.com/questions/22579/pi-headless-how-to-confirm-that-the-pi-is-shut-down
 * https://raspberrypi.stackexchange.com/questions/5489/how-do-i-turn-on-my-raspberry-pi-after-shutdown
+* https://code.google.com/archive/p/tinkerit/wikis/SecretVoltmeter.wiki
+* https://www.arduino.cc/en/Tutorial/MasterWriter
