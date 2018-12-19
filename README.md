@@ -4,6 +4,7 @@ Open source Raspberry Pi supercapacitor UPS hat
 ## Goal 
 Make reliable turn on / shutdown shield for Raspberry Pi
 
+(!) Not yet tested ;)
 ![v1](https://github.com/adoconnection/raspi-supercap/blob/master/PCBv1.PNG)
 
 ## BOM
