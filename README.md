@@ -16,6 +16,10 @@ Make reliable turn on / shutdown shield for Raspberry Pi
 ## Status
 PoC assembly
 
+## Open questions
+- [ ] Use special supercapacitor chargers or not (https://www.analog.com/en/ltc3225)
+- [ ]
+
 ## Сhecklist / use cases
 
 - [ ] On power on wait for capacitors to be charged and turn on Raspberry
