@@ -29,6 +29,7 @@ PoC assembly
 
 ## Sources of inspiration
 * https://juice4halt.com/
+* https://www.saveyourpi.com/
 * https://www.youtube.com/watch?v=m20o3P-S5s8
 * http://www.hackerspace-ffm.de/wiki/index.php?title=Raspi_EDLC_UPS
 * https://raspberrypi.stackexchange.com/questions/74641/how-to-make-a-simple-reliable-15-second-ups-for-shutdown
