@@ -17,8 +17,7 @@ Make reliable turn on / shutdown shield for Raspberry Pi
 PoC assembly
 
 ## Open questions
-- [ ] Use special supercapacitor chargers or not (https://www.analog.com/en/ltc3225)
-- [ ]
+- [ ] Use special supercapacitor chargers or not? (https://www.analog.com/en/ltc3225)
 
 ## Сhecklist / use cases
 
