@@ -37,3 +37,4 @@ PoC assembly
 * https://raspberrypi.stackexchange.com/questions/5489/how-do-i-turn-on-my-raspberry-pi-after-shutdown
 * https://code.google.com/archive/p/tinkerit/wikis/SecretVoltmeter.wiki
 * https://www.arduino.cc/en/Tutorial/MasterWriter
+* https://raspberrypi.stackexchange.com/questions/3704/i2c-library-for-mono-c
