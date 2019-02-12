@@ -12,6 +12,8 @@ Make reliable turn on / shutdown shield for Raspberry Pi
 * 20F x 2 supercapacitors
 * ATMega328
 * resistors
+* diodes
+* MT3608 DC-DC Step up converter board
 
 ## Status
 PoC assembly
