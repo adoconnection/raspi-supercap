@@ -31,6 +31,7 @@ PoC assembly
 ## I2C 
 Default bus address is 0x77
 Registers:
+
 | Address  | Mode | Default value | Info |
 | ------------- | ------------- | ------------- | ------------- |
 | 0x01  | R  | 0x64 | Test register, always return 0x64  |
@@ -38,9 +39,8 @@ Registers:
 | 0x03  | R  |  | Capacitor charge in percents 0 - 100  |
 | 0x04  | RW  | 3 | Turn off timeout in seconds. Wait for N seconds before issue a turn off command.  |
 | 0x05  | RW  | 40 | Pi boot at 40% charged capacitors. Valid values 0 - 100  |
-| 0x06  | RW  | 50 | Pi shutdown at 40% charged capacitors, override 0x04 register. 0xFF - disable shutdown |
+| 0x06  | RW  | 50 | Pi shutdown at 50% charge left. Override 0x04 register. 0xFF - disable shutdown |
 | 0x50  | RW  | 0x77 | I2C address |
-
 
 ## Sources of inspiration
 * https://juice4halt.com/
