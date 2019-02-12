@@ -4,6 +4,9 @@ Open source Raspberry Pi supercapacitor UPS hat
 ## Goal 
 Make reliable turn on / shutdown shield for Raspberry Pi
 
+## Status
+PoC assembly
+
 (!) Not yet tested ;)
 ![v1](https://github.com/adoconnection/raspi-supercap/blob/master/PCBv1.0.PNG)
 
@@ -14,9 +17,6 @@ Make reliable turn on / shutdown shield for Raspberry Pi
 * resistors
 * diodes
 * MT3608 DC-DC Step up converter board
-
-## Status
-PoC assembly
 
 ## Open questions
 - [x] Use special supercapacitor chargers or not? (https://www.analog.com/en/ltc3225) – not in v1
