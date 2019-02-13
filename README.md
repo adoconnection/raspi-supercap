@@ -9,6 +9,7 @@ PoC assembly
 
 (!) Not yet tested ;)
 ![v1](https://github.com/adoconnection/raspi-supercap/blob/master/PCBv1.0.PNG)
+![v1](https://github.com/adoconnection/raspi-supercap/blob/master/PCB-B.1.PNG)
 
 ## BOM
 * PCB – https://easyeda.com/adoconnection/raspi-supercap
