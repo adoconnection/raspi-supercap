@@ -31,6 +31,8 @@ PoC assembly
 - [ ] Reset Raspberry pi if shutdown was activated and power is restored
 - [ ] Customizable power off behavior
 
+![v1](https://github.com/adoconnection/raspi-supercap/blob/master/Workflow.png)
+
 ## I2C 
 Default bus address is 0x77
 Registers:
@@ -44,6 +46,8 @@ Registers:
 | 0x05  | RW  | 40 | Pi boot at 40% charged capacitors. Valid values 0 - 100  |
 | 0x06  | RW  | 50 | Pi shutdown at 50% charge left. Override 0x04 register. 0xFF - disable shutdown |
 | 0x50  | RW  | 0x77 | I2C address |
+
+
 
 ## Sources of inspiration
 * https://juice4halt.com/
