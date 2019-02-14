@@ -45,7 +45,7 @@ Registers:
 | 0x04  | RW  | 3 | Turn off timeout in seconds. Wait for N seconds before issue a turn off command.  |
 | 0x05  | RW  | 50 | Turn off threshold. Shutdown pi at 50% charge left. |
 | 0x06  | RW  | 30 | Turn on threshold. Pi boot at 40% charged capacitors. Valid values 0 - 100  |
-| 0x50  | RW  | 0x77 | I2C address |
+| 0x50  | RW  | 0x21 | I2C address |
 
 
 
