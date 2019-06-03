@@ -23,12 +23,12 @@ PoC assembly
 - [x] Use special supercapacitor chargers or not? (https://www.analog.com/en/ltc3225) – not in v1
 
 ## To-Do checklist 
-- [ ] Firmware
-- [ ] Monitor PI state
-- [ ] Call shutdown pin
-- [ ] On power on wait for capacitors to be charged and turn on Raspberry
-- [ ] I2C slave to query expternal power status and capacitors charge level
-- [ ] Reset Raspberry pi if shutdown was activated and power is restored
+- [x] Firmware
+- [x] Monitor PI state
+- [x] Call shutdown pin
+- [x] On power on wait for capacitors to be charged and turn on Raspberry
+- [x] I2C slave to query external power status and capacitors charge level
+- [x] Reset Raspberry pi if shutdown was activated and power is restored
 - [ ] Customizable power off behavior
 
 ![v1](https://github.com/adoconnection/raspi-supercap/blob/master/Workflow.png)
